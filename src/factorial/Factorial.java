@@ -10,6 +10,7 @@ package factorial;
  * @author jmllamasg
  */
 public class Factorial {
+    //version1
     public static int calculo(int n){
         if(n<0){
             throw new IllegalArgumentException("Número " +n+ " no puede ser < que 0");
