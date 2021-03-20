@@ -16,7 +16,7 @@ public class Factorial {
             throw new IllegalArgumentException("Número " +n+ " no puede ser < que 0");
         }
         int fact=1;
-        for(int i=2 ;i<=n ; i++)
+        for(int i=2 ;i<=n ; i++)//ggf
             fact*=i;
         if (fact==0){
             throw new ArithmeticException("Overflow, número "+n+" demasiado grande");
