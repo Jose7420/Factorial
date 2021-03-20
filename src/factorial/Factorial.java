@@ -32,8 +32,8 @@ public class Factorial {
                 
         //System.out.println(f.calculo(0));
         System.out.println(f.calculo(5));
-        System.out.println(f.calculo(-3));
-        System.out.println(f.calculo(4000));
+       // System.out.println(f.calculo(-3));
+        //System.out.println(f.calculo(4000));
     }
     
 }
