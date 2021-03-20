@@ -46,7 +46,7 @@ public class FactorialIT {
     @Test(expected = java.lang.ArithmeticException.class)
     public void testCalculo1(){
       Factorial f = new Factorial();
-      f.calculo(50);
+      f.calculo(150);
     }
     
     

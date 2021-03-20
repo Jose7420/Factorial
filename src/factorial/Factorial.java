@@ -29,7 +29,7 @@ public class Factorial {
     public static void main(String[] args) {
         // TODO code application logic here
         Factorial f = new Factorial();
-                
+               
         //System.out.println(f.calculo(0));
         System.out.println(f.calculo(5));
        // System.out.println(f.calculo(-3));
